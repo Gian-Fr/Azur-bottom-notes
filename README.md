@@ -23,7 +23,9 @@ To do so, follow these steps:
     Click on the Generate PDF button.
 
 The resulting PDF document will include the notes section at the bottom of the page instead of the top.
-
-
+## Contributing
 If you find any bugs or issues with this theme, please create an issue on the GitHub repository. Pull requests are also welcome if you wish to contribute to the development of this theme.
-![Screenshot](template.png)
+
+<p align="center">
+  <img src="Template.png" width="350" title="sample proposal">
+</p>
