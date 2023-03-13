@@ -26,4 +26,4 @@ The resulting PDF document will include the notes section at the bottom of the p
 
 
 If you find any bugs or issues with this theme, please create an issue on the GitHub repository. Pull requests are also welcome if you wish to contribute to the development of this theme.
-License
+![Screenshot](template.png)
